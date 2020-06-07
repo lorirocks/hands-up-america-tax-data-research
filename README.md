@@ -4,7 +4,7 @@ You have been tasked with creating an interactive dashboard for an organization 
 
 1. Start by creating a table containing the state names, the number of total returns filed, and the number of elderly returns filed. Create a calculated column for the percentage of elderly returns out of total returns filed. Create this table in a new worksheet any way you'd like. One function you might find helpful for this task is the `OFFSET()` function.
 
-``` 
+```    
 OFFSET(reference, rows, columns, [height], [width])
 reference: starting point
 rows: number of rows down from the starting point
